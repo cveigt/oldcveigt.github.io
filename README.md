@@ -6,7 +6,7 @@ Welcome to my [personal website](http://veigt.com/).
 
 You just need to fork and clone this project.
 
-- `git clone https://github.com/cveigt/veigt.com`
+- `git clone https://github.com/cveigt/cveigt.github.io`
 - You're all set!
 
 ## This website
