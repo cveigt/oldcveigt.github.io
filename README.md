@@ -1,6 +1,6 @@
 # Hi there,
 
-Welcome to my [personal website](http://veigt.com/).
+Welcome to my [personal website](https://cveigt.github.io/).
 
 ## Installation
 
